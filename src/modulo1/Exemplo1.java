@@ -8,7 +8,7 @@ public class Exemplo1 {
         System.out.println("\n\n\nnombre\t\tapellido\tlink git"); 
         System.out.println("\nGabriel\t\tCasas\t\thttps://gitlba/gcasas1972/cursojava_mayo2022");
 		System.out.println("para las comillas \" ");
-		System.out.println("para las barras \\ ");
+		System.out.println("para las barras asdasd \\ ");
 	}
 
 }
